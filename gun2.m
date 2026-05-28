@@ -1,1 +1,1 @@
-% CÝDDEN YÜZDE ÝÞARETÝMÝ
+% CÝDDEN YÜZDE ÝÞARETÝMÝi
