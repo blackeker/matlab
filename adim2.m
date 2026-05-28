@@ -5,3 +5,4 @@ A=3;
 % DUSUNUYORUM
 print('%d', A);
 % Anani print yokmus
+fprintf('A: %d\n', A);
