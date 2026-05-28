@@ -3,3 +3,4 @@
 A=3;
 % c ÝLE ayni neredeysede bazi yerleri farkli tek bunu anlasam yeter DÝYE
 % DUSUNUYORUM
+print('%d', A);
