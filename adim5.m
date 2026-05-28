@@ -6,4 +6,5 @@ x = 1 : 15 : 150
 for k = 0:2:10
     fprintf('k : %d \n', k);
 end
-% Fora bayildigimi soylemismiydim
+% Fora bayildigimi soylemismiydim COK GUZEL BÝSÝ DEGÝL MÝ AW
+% neyse isimize donelim
