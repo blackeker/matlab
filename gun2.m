@@ -1,0 +1,1 @@
+% CÝDDEN YÜZDE ÝÞARETÝMÝ
