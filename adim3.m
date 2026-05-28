@@ -15,3 +15,4 @@ E = A / B;
 fprintf('C: %d\n', C);
 fprintf('D: %d\n', D);
 fprintf('E: %d\n', E);
+% Galiba bunu anladimda bunlar basit zaten aq
