@@ -3,6 +3,6 @@
 A=3;
 % c ÝLE ayni neredeysede bazi yerleri farkli tek bunu anlasam yeter DÝYE
 % DUSUNUYORUM
-print('%d', A);
+% print('%d', A);
 % Anani print yokmus
 fprintf('A: %d\n', A);
