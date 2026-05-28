@@ -8,3 +8,6 @@ B = [ 4 5 6 ; 1 2 2 ]
 % C denen mahlukatin olmasi icin mesela A nin satirlarin sayisi B nin
 % sutunlarýna esit olmalý imiþ liner carpim oluyormus cunku vay mq
 D = A.*B
+% neyse bak simdi 
+C = A(2,:)
+% vav bu bilgiyi alip gotune sokabilirsin ey okuyucu
