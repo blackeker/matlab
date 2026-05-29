@@ -1,0 +1,1 @@
+% Islem Onceligi Burdada Var Biliyon mu :>
