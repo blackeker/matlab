@@ -6,7 +6,7 @@ y = cos(t);
 plot(t, x, 'b-', t, y, 'r--');
 
 % Grafik biçimlendirmeleri
-grid on;                      % Grid açýk
+grid on;                      
 xlabel('t');                  % X ekseni etiketi
 ylabel('x and y');            % Y ekseni etiketi
 title('sine and cosine curves'); % Grafik baþlýðý
