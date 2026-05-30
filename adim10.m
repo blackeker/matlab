@@ -10,6 +10,6 @@ grid on;  % Evet gridin ne oldugunu benim gibi bilmeyen cahiller varsa
 %  Acýklýyorum grid sadece ekraný yani grafiðin oldugu yeri 
 %  BÖLÜYÖR YANÝ BÖLÜCÜ  GÝBÝ DÜÞÜNÜN                     
 xlabel('t');                  % X ekseni etiketi
-ylabel('x and y');            % Y ekseni etiketi
-title('sine and cosine curves'); % Grafik baþlýðý
-legend('sine', 'cosine');     % Sýrasýyla legend isimleri
+ylabel('x VE y');            % Y ekseni etiketi
+title('EZ KUZÝ BAVVO'); % Grafik baþlýðý
+legend('SÝN', 'KOS');     % Sýrasýyla legend isimleri
