@@ -11,5 +11,5 @@ grid on;  % Evet gridin ne oldugunu benim gibi bilmeyen cahiller varsa
 %  BÖLÜYÖR YANÝ BÖLÜCÜ  GÝBÝ DÜÞÜNÜN                     
 xlabel('t');                  % X ekseni etiketi
 ylabel('x VE y');            % Y ekseni etiketi
-title('EZ KUZÝ BAVVO'); % Grafik baþlýðý
+title('AGGGGGGGG'); % Grafik baþlýðý
 legend('SÝN', 'KOS');     % Sýrasýyla legend isimleri
