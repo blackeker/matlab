@@ -6,4 +6,4 @@ save('abc', 'a')
 %  olarak kayıt oluyor falan fistan iste
 load abc
 triu(a)
-tril
+tril(a)
