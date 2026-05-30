@@ -5,3 +5,5 @@ save('abc', 'a')
 %  Dosya uzantýsý belirlemek icin abc.txt yazabilirz ama default olarak mat
 %  olarak kayýt oluyor falan fistan iste
 load abc
+triu(a)
+tril
