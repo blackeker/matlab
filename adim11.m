@@ -9,6 +9,7 @@ plot(x,y1)
 title('dogru grafigi')
 
 subplot(2,2,2)
+%  subplot grafik penceresini bölmelere ayirir 
 plot(x,y2)
 title('parabol grafigi')
 
