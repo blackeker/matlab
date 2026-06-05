@@ -3,5 +3,5 @@
 % yazınız.
 for i = 0:1:11
     kare = i^2
-    disp(' %d karesi = %d', i,kare)
+    disp(' %d karesi = %d \n', i kare)
 end
