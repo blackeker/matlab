@@ -5,3 +5,16 @@
 *.mat
 .DS_Store
 Thumbs.db
+
+# Advanced Exclusions
+*.db
+*.db-journal
+*.sqlite*
+*.apk
+*.exe
+*.obj
+.wwebjs_auth/
+.wwebjs_cache/
+.vscode/
+.idea/
+
