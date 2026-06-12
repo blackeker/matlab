@@ -1,4 +1,7 @@
 *.asv
-.git/
-gonder.bat
-.pdfler/
+*.m~
+*.slxc
+*.mex*
+*.mat
+.DS_Store
+Thumbs.db
